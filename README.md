@@ -18,3 +18,5 @@ mvn spring-boot:run
 - 도메인 코드만으로 동작할 수 있는 분리된 테스트가 불가
 - 인프라 변경에 따라 서로간에 영향도가 생길 수 있는 구조
 
+## 다음
+- https://github.com/msa-school/ddd-petstore-level5-layered
